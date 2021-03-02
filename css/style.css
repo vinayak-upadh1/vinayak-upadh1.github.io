@@ -204,8 +204,3 @@ section.contact .btn-wrapper{
 footer{
     background: dark;
 }
-@media (max-width: 600px){
-    header #main-nav{
-        display: none;
-    }
-}
